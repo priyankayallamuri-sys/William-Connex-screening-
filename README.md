@@ -24,7 +24,7 @@ Write a bulk-safe Apex class that:
 7. Updates `Escalation_Status__c` on `Inspection__c` accordingly
 8. Logs total escalations per region using `System.debug`
 
-📦 Bonus (Optional)
+ Bonus
 
 • Create a helper class `EscalationRuleService` to abstract metadata lookup
 • Create a test class with 90%+ coverage, including edge cases
